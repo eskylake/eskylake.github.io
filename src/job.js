@@ -43,7 +43,7 @@ function JobResume() {
           <div className="row">
             <div className="col-md-12 text-center">
               <div className="header-text">
-                <h2>Ali Tavafi <br /> Resume</h2>
+                <h2>Ali Tavafi <br /> <h3>Software Engineer</h3></h2>
               </div>
             </div>
           </div>
@@ -63,11 +63,11 @@ function JobResume() {
               <div className="col-sm-6">
                 <div className="single-about-txt">
                   <p className='font-weight-bold text-justify'>
-                    <b>Results-driven Senior Software Engineer with 7+ years of expertise in full-stack development and microservices
-                      architecture. Proven track record in scaling web applications using TypeScript, JavaScript, PHP, and Go.
-                      Demonstrated success in leading technical teams and modernizing legacy systems, combining technical
-                      excellence with strong collaborative abilities. Seeking to leverage my expertise in RESTful/GraphQL APIs and
-                      distributed systems to drive innovation and technical excellence in your engineering team.</b>
+                    <b>Hi there! 👋 I'm Ali, a Software Engineer with a passion for building scalable web applications and solving complex technical challenges. Over the past 7+ years, I've dedicated myself to continuous growth and learning in the world of software development.
+                      My technical toolkit is extensive – I work primarily with TypeScript, JavaScript, Go, and PHP, and I'm well-versed in both frontend and backend technologies. 🧑‍💻 <br />
+                      Currently, I'm keeping an eye out for opportunities to dive into Rust and strengthen my understanding of fundamental computer science concepts. I believe that staying curious and being open to learning is what keeps our field exciting!
+                      But there's more to life than code! I'm a huge animal lover and dream of becoming an animal rights activist someday. I believe in being a voice for those who can't speak for themselves. ✌️ Music is another huge part of who I am. It's the soundtrack to my coding sessions and adds rhythm to everything I do. 🥁
+                      </b>
                   </p>
                   <div className="row">
                     <div className="col-sm-6">
@@ -109,8 +109,8 @@ function JobResume() {
                     <div className="row">
                       <div className="col-md-5">
                         <div className="experience-time text-right">
-                          <h2>2021 - Present</h2>
-                          <h3>ML Engineer</h3>
+                          <h2>March 2021 - Present</h2>
+                          <h3>Senior Software Engineer</h3>
                         </div>
                       </div>
                       <div className="col-md-offset-1 col-md-5">
@@ -118,10 +118,19 @@ function JobResume() {
                           <div className="timeline-content">
                             <h4 className="title">
                               <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                              Aasaam
+                              <a href="https://asam.company" target="_blank">ASAM</a>
                             </h4>
+                            <h5>Tehran, Iran - Hybrid</h5>
                             <p className="description">
-                              Data engineering, Time Series prediction for Covid density, working with Transformers, word vectors, performing transfer learning & sentiment analysis, image processing, working with graph data structure, utilizing messaging systems, building company MLOps ecosystem.
+                              At ASAM, a technology infrastructure company serving major media organizations, I
+                              architected and led the development of multiple critical systems since March 2021. I
+                              spearheaded the Darkoob web push notification platform, which captured 80% market share
+                              among media companies, while also contributing to the implementation of VOD services and
+                              analytics solutions. A key achievement was transforming the media CMS to a microservices
+                              architecture, resulting in 90% improvement in content delivery stability. Working with
+                              technologies like TypeScript, Go, PHP, Node.js, and GraphQL, I also implemented
+                              comprehensive monitoring systems that enhanced debugging efficiency across our media
+                              delivery infrastructure.
                             </p>
                           </div>
                         </div>
@@ -135,8 +144,8 @@ function JobResume() {
                     <div className="row">
                       <div className="col-md-5">
                         <div className="experience-time text-right">
-                          <h2>2020 - 2021</h2>
-                          <h3>Data Engineer</h3>
+                          <h2>April 2020 - March 2021</h2>
+                          <h3>Software Engineer</h3>
                         </div>
                       </div>
                       <div className="col-md-offset-1 col-md-5">
@@ -144,11 +153,18 @@ function JobResume() {
                           <div className="timeline-content">
                             <h4 className="title">
                               <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                              QuantRisk
+                              <a href="https://podro.com" target="_blank">Podro</a>
                             </h4>
-                            <h5>Remote, USA</h5>
+                            <h5>Tehran, Iran - Hybrid</h5>
                             <p className="description">
-                              Researching US electric market, identifying data and extracting, transforming and loading market data.
+                              At Podro, an e-commerce and logistics startup, I contributed significantly to the
+                              development of PodroShop and PodroPin platforms. I played a key role in modernizing
+                              PodroShop's architecture from monolithic to microservices, achieving an 80% improvement in
+                              system stability. Working with technologies like JavaScript, PHP, Node.js, and React, I
+                              developed critical components of the multi-carrier delivery integration system and
+                              implemented real-time order tracking features that reduced customer support inquiries by
+                              40%. Through collaboration with the DevOps team, I helped optimize deployment workflows
+                              and improve system efficiency using technologies like Docker, Kubernetes, and RabbitMQ.
                             </p>
                           </div>
                         </div>
@@ -162,8 +178,8 @@ function JobResume() {
                     <div className="row">
                       <div className="col-md-5">
                         <div className="experience-time text-right">
-                          <h2>2019 - 2020</h2>
-                          <h3>Business Intelligence Developer</h3>
+                          <h2>October 2018 - March 2020</h2>
+                          <h3>Senior Back-end Developer</h3>
                         </div>
                       </div>
                       <div className="col-md-offset-1 col-md-5">
@@ -171,10 +187,18 @@ function JobResume() {
                           <div className="timeline-content">
                             <h4 className="title">
                               <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                              AhanOnline
+                              HiTrav
                             </h4>
+                            <h5>Tehran, Iran - On-site</h5>
                             <p className="description">
-                              Working with sql-server, power BI and python, writing complex queries, API handling and python scraping, implementing an ARIMA model for predicting steel and iron price, building dashboards and analyzing customer data, working with SSMS, SSIS and SSRS.
+                              At HiTrav, a Turkish maritime tourism startup, I led the backend development of an
+                              innovative vessel booking platform from October 2018 to March 2020. Initially serving as a
+                              backend consultant, I later transitioned to a senior role where I directed a team of over
+                              10 members in delivering scalable booking features. Using technologies like Node.js,
+                              PHP, and React, I implemented an efficient online booking system that resulted in a
+                              70% increase in yacht reservations. The platform revolutionized the yacht, ship, and boat
+                              reservation process in Turkey's maritime tourism sector, while maintaining high system
+                              reliability and optimal user experience.
                             </p>
                           </div>
                         </div>
@@ -182,6 +206,35 @@ function JobResume() {
                     </div>
                   </div>
                 </li>
+
+
+                <li>
+                  <div className="single-timeline-box fix">
+                    <div className="row">
+                      <div className="col-md-5">
+                        <div className="experience-time text-right">
+                          <h2>November 2016 - March 2019</h2>
+                          <h3>Back-end Developer</h3>
+                        </div>
+                      </div>
+                      <div className="col-md-offset-1 col-md-5">
+                        <div className="timeline">
+                          <div className="timeline-content">
+                            <h4 className="title">
+                              <span><i className="fa fa-circle" aria-hidden="true"></i></span>
+                              <a href="https://baharnet.ir" target="_blank">Bahar Samaneh Shargh</a>
+                            </h4>
+                            <h5>Tehran, Iran - On-site</h5>
+                            <p className="description">
+                              At Bahar Samaneh Shargh, I worked as a backend developer, focusing on the development and enhancement of the company's custom CRM and ERP applications. Working with technologies like PHP, Node.js, and multiple database systems including MySQL, MongoDB, and Oracle, I played a key role in redesigning the legacy CRM into a RESTful API architecture, which achieved a 90% improvement in system scalability. This transformation significantly enhanced the company's internal operations and data management capabilities.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+
               </ul>
             </div>
           </div>
@@ -212,41 +265,44 @@ function JobResume() {
 
           <div class="row">
             <div class="badge-container">
-              <span class="badge-gpt blue">Python</span>
-              <span class="badge-gpt blue">Tensorflow</span>
-              <span class="badge-gpt blue">Transformers (Huggingface Library)</span>
-              <span class="badge-gpt blue">Sklearn</span>
-              <span class="badge-gpt blue">NetworkX</span>
-              <span class="badge-gpt blue">OpenCV</span>
-              <span class="badge-gpt blue">DARTS</span>
-              <span class="badge-gpt blue">PROPHET</span>
-              <span class="badge-gpt blue">ArangoDB</span>
-              <span class="badge-gpt blue">MongoDB</span>
-              <span class="badge-gpt blue">MySQL</span>
-              <span class="badge-gpt blue">PostgreSQL</span>
-              <span class="badge-gpt blue">Power BI</span>
-              <span class="badge-gpt blue">Pytest</span>
-              <span class="badge-gpt blue">Linux</span>
-              <span class="badge-gpt blue">Git</span>
-              <span class="badge-gpt blue">Docker</span>
-              <span class="badge-gpt blue">FastAPI</span>
-              <span class="badge-gpt blue">Multiprocessing</span>
-              <span class="badge-gpt blue">NiFi</span>
-              <span class="badge-gpt blue">Github Actions</span>
-              <span class="badge-gpt blue">Gitlab CI/CD</span>
+              <span className="badge-gpt blue">TypeScript</span>
+              <span className="badge-gpt blue">JavaScript</span>
+              <span className="badge-gpt blue">PHP</span>
+              <span className="badge-gpt blue">Node.js</span>
+              <span className="badge-gpt blue">GraphQL</span>
+              <span className="badge-gpt blue">RESTful APIs</span>
+              <span className="badge-gpt blue">React.js</span>
+              <span className="badge-gpt blue">Next.js</span>
+              <span className="badge-gpt blue">Nest.js</span>
+              <span className="badge-gpt blue">Fastify</span>
+              <span className="badge-gpt blue">Laravel</span>
+              <span className="badge-gpt blue">Symfony</span>
+              <span className="badge-gpt blue">Yii2</span>
+              <span className="badge-gpt blue">PostgreSQL</span>
+              <span className="badge-gpt blue">MySQL</span>
+              <span className="badge-gpt blue">MongoDB</span>
+              <span className="badge-gpt blue">Redis</span>
+              <span className="badge-gpt blue">RabbitMQ</span>
+              <span className="badge-gpt blue">Google Cloud Platform (GCP)</span>
+              <span className="badge-gpt blue">Firebase</span>
+              <span className="badge-gpt blue">Docker</span>
+              <span className="badge-gpt blue">Kubernetes</span>
+              <span className="badge-gpt blue">Git</span>
+              <span className="badge-gpt blue">Github Actions</span>
+              <span className="badge-gpt blue">Gitlab CI/CD</span>
+              <span className="badge-gpt blue">Grafana</span>
+              <span className="badge-gpt blue">Prometheus</span>
+              <span className="badge-gpt blue">Linux</span>
             </div>
           </div>
           <div class="row">
             <div class="badge-container">
-              <span class="badge-gpt yellow">NATS</span>
-              <span class="badge-gpt yellow">PySpark</span>
-              <span class="badge-gpt yellow">Django</span>
-              <span class="badge-gpt yellow">PyCaret</span>
-              <span class="badge-gpt yellow">NodeJS</span>
-              <span class="badge-gpt yellow">Go</span>
-              <span class="badge-gpt yellow">MetaFlow</span>
-              <span class="badge-gpt yellow">MLFlow</span>
-              <span class="badge-gpt yellow">React</span>
+              <span className="badge-gpt yellow">Go</span>
+              <span className="badge-gpt yellow">Vue.js</span>
+              <span className="badge-gpt yellow">NATS</span>
+              <span className="badge-gpt yellow">Typesense</span>
+              <span className="badge-gpt yellow">MSSQL</span>
+              <span className="badge-gpt yellow">Oracle</span>
             </div>
           </div>
           <br></br>
@@ -258,40 +314,17 @@ function JobResume() {
 
           <div class="row">
             <div class="badge-container">
-              <span class="badge-gpt blue">Machine Learning</span>
-              <span class="badge-gpt blue">Transfer Learning</span>
-              <span class="badge-gpt blue">Computer Vision</span>
-              <span class="badge-gpt blue">Quantization</span>
-              <span class="badge-gpt blue">Data Engineering</span>
-              <span class="badge-gpt blue">LLMs</span>
-              <span class="badge-gpt blue">Concurrent Computing</span>
-              <span class="badge-gpt blue">CNNs</span>
-              <span class="badge-gpt blue">NLP</span>
-              <span class="badge-gpt blue">Transformers</span>
-              <span class="badge-gpt blue">Word Vectorization</span>
-              <span class="badge-gpt blue">Sentiment Analysis</span>
-              <span class="badge-gpt blue">BERT</span>
-              <span class="badge-gpt blue">Graph Theory</span>
-              <span class="badge-gpt blue">Timeseries Prediction</span>
-              <span class="badge-gpt blue">Data Visualization</span>
-              <span class="badge-gpt blue">SQL</span>
-              <span class="badge-gpt blue">NoSQL</span>
-              <span class="badge-gpt blue">CI/CD</span>
-              <span class="badge-gpt blue">XGBoost</span>
-              <span class="badge-gpt blue">Ensemble Models</span>
-            </div>
-          </div>
-          <div class="row">
-            <div class="badge-container">
-              <span class="badge-gpt yellow">MLOPS</span>
-              <span class="badge-gpt yellow">InfoSec</span>
-              <span class="badge-gpt yellow">Microservices</span>
-              <span class="badge-gpt yellow">Cryptocurrencies</span>
-              <span class="badge-gpt yellow">Algorithmic Trading</span>
-              <span class="badge-gpt yellow">TDD</span>
-              <span class="badge-gpt yellow">SOLID</span>
-              <span class="badge-gpt yellow">Backend Developement</span>
-              <span class="badge-gpt yellow">Scraping</span>
+              <span className="badge-gpt blue">Microservices</span>
+              <span className="badge-gpt blue">Automated Testing & TDD</span>
+              <span className="badge-gpt blue">Object-oriented programming</span>
+              <span className="badge-gpt blue">Design Patterns</span>
+              <span className="badge-gpt blue">System Design</span>
+              <span className="badge-gpt blue">SOLID</span>
+              <span className="badge-gpt blue">GRASP</span>
+              <span className="badge-gpt blue">SQL</span>
+              <span className="badge-gpt blue">NoSQL</span>
+              <span className="badge-gpt blue">CI/CD</span>
+              <span className="badge-gpt blue">Agile</span>
             </div>
           </div>
         </div>
@@ -304,66 +337,14 @@ function JobResume() {
         </div>
         <br></br>
         <div className='row'>
-          <span class="text-center">English (Professional Proficiency)</span>
-          <div className='text-center'><small class="text-center">TOEFL Results -{'>'} Reading: 26, Listening: 26, Speaking: 22, Writing: 23</small></div>
+          <span class="text-center">English (Professional Working Proficiency)</span>
         </div>
         <br></br>
         <div className='row'>
-          <span class="text-center">French (Elementry)</span>
+          <span class="text-center">Persian (Native)</span>
         </div>
         <br></br>
         <br></br>
-
-      </section>
-
-
-      <section id="projects" className="about">
-        <div className="section-heading text-center">
-          <h2>Projects</h2>
-        </div>
-        <br></br><br></br>
-        <div className="container">
-          <div class="list-group text-left">
-            <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-              <div class="w-100 justify-content-between">
-                <h5 class="mb-1">Aasaam Core NLP and MLOps Ecosystem</h5>
-              </div>
-              <p class="mb-1">Implementing a core NLP system for various goals like sentiment analysis, NER, tag generation and etc for aasaam CMS using Python, FastAPI, MySQL, Label Studio, MongoDB, React, NGINX and leveraging MLOps tools (MLFlow and Metaflow) for standardizing experiments and pipeline orchestration of machine learning workflows.</p>
-              <p class="mb-1"><span class="badge badge-pill">MLOps</span> <span class="badge badge-pill">NLP</span> <span class="badge badge-pill">System Design</span> <span class="badge badge-pill">React</span> <span class="badge badge-pill">Docker</span></p>
-            </div>
-            <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-              <div class="w-100 justify-content-between">
-                <h5 class="mb-1">Penguin Keyword Mapper System</h5>
-              </div>
-              <p class="mb-1">Building a system with micro-service architecture using NATS, ArangoDB, NodeJS and Python for clustering a large list of keywords and phrases by using graph data structure and unsupervised graph clustering method (spectral clustering)</p>
-              <p class="mb-1"><span class="badge badge-pill">Graph Theory</span> <span class="badge badge-pill">Spectral Clustering</span> <span class="badge badge-pill">ArangoDB</span> <span class="badge badge-pill">NetworkX</span> <span class="badge badge-pill">NATS</span> <span class="badge badge-pill">NodeJS</span></p>
-            </div>
-
-            <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-              <div class="w-100 justify-content-between">
-                <h5 class="mb-1">Transfer learning & Sentiment Analysis (Comment Classification) Using Transformers Models (BERT)</h5>
-              </div>
-              <p class="mb-1">Re-Training a BERT persian Language model on comment data and classifying offensive comments with an accuracy of 79%. </p>
-              <p class="mb-1"><span class="badge badge-pill">Transfer Learning</span> <span class="badge badge-pill">Word Vectorization</span> <span class="badge badge-pill">BERT</span> <span class="badge badge-pill">Sentiment Analysis</span> <span class="badge badge-pill">Transformers</span> <span class="badge badge-pill">NLP</span></p>
-            </div>
-
-            <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-              <div class="w-100 justify-content-between">
-                <h5 class="mb-1">Covid Density Prediction</h5>
-              </div>
-              <p class="mb-1">Predicting the density of corona per region by researching various time-series models in DARTS python library.</p>
-              <p class="mb-1"><span class="badge badge-pill">Time Series</span> <span class="badge badge-pill">PROPHET</span> <span class="badge badge-pill">RNN</span> <span class="badge badge-pill">LSTM</span> <span class="badge badge-pill">DARTS</span></p>
-            </div>
-
-            <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-              <div class="w-100 justify-content-between">
-                <h5 class="mb-1">Predicting Project Cost Using Decision Tree Regressor, Random Forest, XGBoost & Neural Networks Using MSP Files Database</h5>
-              </div>
-              <p class="mb-1">In this thesis data was extracted from msp files, preprocessed, analyzed and after extracting insights several models were trained on it. The results shows that using ML methods in cost prediction outperforms traditional predictions.<br /> <a href='https://github.com/rezashabrang/construction-prediction'>GITHUB LINK</a></p>
-              <p class="mb-1"><span class="badge badge-pill">Bachelor Thesis</span> <span class="badge badge-pill">Decision Tree</span> <span class="badge badge-pill">XGBoost</span> <span class="badge badge-pill">Neural Networks</span></p>
-            </div>
-          </div>
-        </div>
 
       </section>
 
@@ -375,123 +356,91 @@ function JobResume() {
         <br></br><br></br>
         <div className="container">
           <div class="list-group text-left">
-            <div class="list-group text-left">
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Advanced Computer Vision With Tensorflow <span class="badge-c-r course">course</span> </h5>
-                  <small>2022-2023</small><br />
-                  <small>Ongoing</small><br />
-                  <small>Coursera/Deeplearning.ai</small>
-                  <p class="mb-1"><span class="badge badge-pill">Tensorflow</span> <span class="badge badge-pill">Saliency</span> <span class="badge badge-pill">Object Detection</span> <span class="badge badge-pill">Image Segmentation</span> <span class="badge badge-pill">Image Interpretation</span></p>
-                </div>
-              </div>
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">MLOps Specialization <span class="badge-c-r course">course</span></h5>
-                  <small>2022-2023</small><br />
-                  <small>2 months (Audit)</small><br />
-                  <small>Coursera/Deeplearning.ai</small>
-                  <p class="mb-1"><span class="badge badge-pill">Tensorflow</span> <span class="badge badge-pill">Concept & Data Drift</span> <span class="badge badge-pill">Pipeline Structuring</span> <span class="badge badge-pill">Model & Data Registry</span> <span class="badge badge-pill">Model Monitoring</span></p>
-                </div>
-              </div>
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">InfoSec Course <span class="badge-c-r course">course</span> </h5>
-                  <small>2023</small><br />
-                  <small>1 Year</small><br />
-                  <small>Aasaam</small>
-                  <p class="mb-1"><span class="badge badge-pill">Recon</span> <span class="badge badge-pill">Burp Suite</span> <span class="badge badge-pill">XSS-Based Attacks</span> <span class="badge badge-pill">SQLi</span> <span class="badge badge-pill">IDOR</span> <span class="badge badge-pill">Logical Hunting</span> <span class="badge badge-pill">APIs</span></p>
+            <div className="list-group text-left">
+
+              <div
+                  className="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
+                <div className="w-100 justify-content-between">
+                  <h5 className="mb-1">Effective TypeScript <span className="badge-c-r course">book</span></h5>
+                  <small>2024</small><br/>
+                  <small>O'Reilly</small>
+                  <p className="mb-1"><span className="badge badge-pill">TypeScript</span> <span
+                      className="badge badge-pill">JavaScript</span> <span
+                      className="badge badge-pill">Type Design</span>
+                  </p>
                 </div>
               </div>
 
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Designing Machine Learning Systems <span class="badge-c-r book">book</span></h5>
-                  <small>Chip Huyen</small>
-                  <p class="mb-1"><span class="badge badge-pill">MLOps</span> <span class="badge badge-pill">AutoML</span> <span class="badge badge-pill">Continual Learning</span> <span class="badge badge-pill">Infrastructure</span></p>
+              <div
+                  className="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
+                <div className="w-100 justify-content-between">
+                  <h5 className="mb-1">Enterprise TypeScript <span className="badge-c-r course">course</span>
+                  </h5>
+                  <small>2024</small><br/>
+                  <small>FrontendMasters</small>
+                  <p className="mb-1"><span className="badge badge-pill">TypeScript</span> <span
+                      className="badge badge-pill">JavaScript</span> <span
+                      className="badge badge-pill">Scaling</span> <span
+                      className="badge badge-pill">Architecture</span></p>
                 </div>
               </div>
 
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Deep Learning Specialization <span class="badge-c-r course">course</span></h5>
-                  <small>2021</small><br />
-                  <small>3 months (Audit)</small><br />
-                  <small>Coursera/Deeplearning.ai</small>
-                  <p class="mb-1"><span class="badge badge-pill">Model Tuning</span> <span class="badge badge-pill">Architecture Building</span> <span class="badge badge-pill">Tensorflow</span></p>
+              <div
+                  className="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
+                <div className="w-100 justify-content-between">
+                  <h5 className="mb-1">Intermediate TypeScript, v2 <span className="badge-c-r course">course</span>
+                  </h5>
+                  <small>2024</small><br/>
+                  <small>FrontendMasters</small>
+                  <p className="mb-1"><span className="badge badge-pill">TypeScript</span> <span
+                      className="badge badge-pill">JavaScript</span> <span
+                      className="badge badge-pill">Scaling</span></p>
                 </div>
               </div>
 
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Building Microservices <span class="badge-c-r book">book</span></h5>
-                  <small>Sam Newman</small>
-                  <p class="mb-1"><span class="badge badge-pill">Modeling</span> <span class="badge badge-pill">Communication Styles</span> <span class="badge badge-pill">Workflow</span> <span class="badge badge-pill">Resiliency</span> <span class="badge badge-pill">Scaling</span></p>
+              <div
+                  className="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
+                <div className="w-100 justify-content-between">
+                  <h5 className="mb-1">TypeScript 5+ Fundamentals, v4 <span className="badge-c-r course">course</span>
+                  </h5>
+                  <small>2023</small><br/>
+                  <small>FrontendMasters</small>
+                  <p className="mb-1"><span className="badge badge-pill">TypeScript</span> <span
+                      className="badge badge-pill">JavaScript</span></p>
                 </div>
               </div>
 
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">High Performance MySQL <span class="badge-c-r book">book</span></h5>
-                  <small>Silvia Botros</small>
-                  <p class="mb-1"><span class="badge badge-pill">Monitoring</span> <span class="badge badge-pill">Server Optimization</span> <span class="badge badge-pill">Query Optimization</span> <span class="badge badge-pill">Indexing</span> <span class="badge badge-pill">Sharding</span> <span class="badge badge-pill">Replication</span> <span class="badge badge-pill">Scaling</span></p>
+              <div
+                  className="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
+                <div className="w-100 justify-content-between">
+                  <h5 className="mb-1">Software Engineering at Google <span className="badge-c-r course">book</span>
+                  </h5>
+                  <small>2023</small><br/>
+                  <small>O'Reilly</small>
+                  <p className="mb-1"><span className="badge badge-pill">Engineering</span> <span
+                      className="badge badge-pill">Leadership</span> <span
+                      className="badge badge-pill">Scaling</span> <span
+                      className="badge badge-pill">Documentation</span> <span
+                      className="badge badge-pill">System Design</span> <span
+                      className="badge badge-pill">Dependency Management</span>
+                  </p>
                 </div>
               </div>
 
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Advanced Algorithmic Thinking and Data Structures <span class="badge-c-r course">course</span></h5>
-                  <small>2020</small><br />
-                  <small>3 months</small><br />
-                  <small>Quera.ir</small>
-                  <p class="mb-1"><span class="badge badge-pill">Algorithms</span> <span class="badge badge-pill">Data Structures</span> <span class="badge badge-pill">Time & Space Complexity</span></p>
+              <div
+                  className="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
+                <div className="w-100 justify-content-between">
+                  <h5 className="mb-1">Node JS: Advanced Concepts <span className="badge-c-r course">course</span></h5>
+                  <small>2022</small><br/>
+                  <small>Udemy</small>
+                  <p className="mb-1"><span className="badge badge-pill">Node.js</span> <span
+                      className="badge badge-pill">AWS S3</span> <span
+                      className="badge badge-pill">Web Development</span> <span
+                      className="badge badge-pill">Multithreading</span> <span
+                      className="badge badge-pill">System Design</span>
+                  </p>
                 </div>
               </div>
-
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Mathematics for Machine Learning <span class="badge-c-r book">book</span></h5>
-                  <small>Marc Peter Deisenroth</small>
-                  <p class="mb-1"><span class="badge badge-pill">Mathematics</span> <span class="badge badge-pill">Linear Algebra</span> <span class="badge badge-pill">Vector Calculus</span></p>
-                </div>
-              </div>
-
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Machine Learning Design Patterns <span class="badge-c-r book">book</span></h5>
-                  <small>Valliappa Lakshmanan</small>
-                  <p class="mb-1"><span class="badge badge-pill">ML Design Patterns</span></p>
-                </div>
-              </div>
-
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1"><a target='_blank' href="https://quera.org/certificate/Vyos8FV5/">AI & Machine learning Problem-Based Course</a> <span class="badge-c-r course">course</span></h5>
-                  <small>2018</small><br />
-                  <small>3 months</small><br />
-                  <small>Quera.ir</small>
-                  <p class="mb-1"><span class="badge badge-pill">scikit-learn</span> <span class="badge badge-pill">XGBoost</span> <span class="badge badge-pill">Classical ML</span></p>
-                </div>
-              </div>
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1"><a target='_blank' href="https://quera.org/certificate/gLshE6uR/">Advanced Python Programming</a> <span class="badge-c-r course">course</span></h5>
-                  <small>2018</small><br />
-                  <small>3 months</small><br />
-                  <small>Quera.ir</small>
-                  <p class="mb-1"><span class="badge badge-pill">Python</span></p>
-                </div>
-              </div>
-              <div class="list-group-item list-group-flush list-group-item-action flex-column align-items-start academic-proj border-top border-bottm">
-                <div class="w-100 justify-content-between">
-                  <h5 class="mb-1">Android and Java Programming Course <span class="badge-c-r course">course</span></h5>
-                  <small>2019</small><br />
-                  <small>56 hours</small><br />
-                  <small>Tehran Univeristy</small>
-                  <p class="mb-1"><span class="badge badge-pill">Android Studio</span> <span class="badge badge-pill">Java</span></p>
-                </div>
-              </div>
-
             </div>
           </div>
         </div>
@@ -522,11 +471,11 @@ function JobResume() {
                 <div className="col-sm-4">
                   <div className="single-profile">
                     <div className="profile-txt">
-                      <div className="profile-icon-name"><b>Deep Learning</b></div>
+                      <div className="profile-icon-name"><b>Cloud Computing</b></div>
                     </div>
                     <div className="single-profile-overlay">
                       <div className="profile-txt">
-                        <div className="profile-icon-name"><b>Deep Learning</b></div>
+                        <div className="profile-icon-name"><b>Cloud Computing</b></div>
                       </div>
                     </div>
                   </div>
@@ -561,11 +510,11 @@ function JobResume() {
                 <div className="col-sm-4">
                   <div className="single-profile">
                     <div className="profile-txt">
-                      <div className="profile-icon-name"><b>MLOps</b></div>
+                      <div className="profile-icon-name"><b>DevOps</b></div>
                     </div>
                     <div className="single-profile-overlay">
                       <div className="profile-txt">
-                        <div className="profile-icon-name"><b>MLOps</b></div>
+                        <div className="profile-icon-name"><b>DevOps</b></div>
                       </div>
                     </div>
                   </div>
@@ -573,11 +522,11 @@ function JobResume() {
                 <div className="col-sm-4">
                   <div className="single-profile profile-no-border">
                     <div className="profile-txt">
-                      <div className="profile-icon-name"><b>Graph Networks</b></div>
+                      <div className="profile-icon-name"><b>System Design</b></div>
                     </div>
                     <div className="single-profile-overlay">
                       <div className="profile-txt">
-                        <div className="profile-icon-name"><b>Graph Networks</b></div>
+                        <div className="profile-icon-name"><b>system Design</b></div>
                       </div>
                     </div>
                   </div>
@@ -600,8 +549,8 @@ function JobResume() {
               <div className="col-sm-6">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2016 - 2021</h2>
-                    <h3>bachelor <span>of </span> Industrial Engineering</h3>
+                    <h2>2016 - 2018</h2>
+                    <h3>Associate <span>of </span> Computer Software Engineering</h3>
                   </div>
                   <div className="timeline-horizontal-border">
                     <i className="fa fa-circle" aria-hidden="true"></i>
@@ -610,12 +559,8 @@ function JobResume() {
                   <div className="timeline">
                     <div className="timeline-content">
                       <h4 className="title">
-                        Amirkabir Univeristy of Technology
+                        Technical and Vocational University
                       </h4>
-                      <p className="description">
-                        Cumulative GPA: 3.5/4 <br />
-                        Last 56 Units GPA: 3.7/4
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -623,8 +568,8 @@ function JobResume() {
               <div className="col-sm-6">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2012 - 2016</h2>
-                    <h3>Diploma <span>of </span> Mathematics & Physics</h3>
+                    <h2>2019 - 2021</h2>
+                    <h3>Bachelor <span>of </span> Information Technology</h3>
                   </div>
                   <div className="timeline-horizontal-border">
                     <i className="fa fa-circle" aria-hidden="true"></i>
@@ -633,11 +578,8 @@ function JobResume() {
                   <div className="timeline">
                     <div className="timeline-content">
                       <h4 className="title">
-                        Imam Jafar Sadegh High School
+                        University of Applied Science and Technology
                       </h4>
-                      <p className="description">
-                        Cumulative GPA: 4/4
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -661,14 +603,14 @@ function JobResume() {
               <div className="row">
                 <div className="col-sm-4">
                   <div className="single-profile">
-                    <a href='https://www.linkedin.com/in/reza-shabrang-maryaan-35466b9b/' target="_blank">
+                    <a href='https://www.linkedin.com/in/alitavafi/' target="_blank">
                       <div className="profile-txt">
                         <i className="fa fa-linkedin"></i>
                         <div className="profile-icon-name">LinkedIn</div>
                       </div>
                       <div className="single-profile-overlay">
                         <div className="profile-txt">
-                          <a href='https://www.linkedin.com/in/reza-shabrang-maryaan-35466b9b/' target="_blank"><i className="fa fa-linkedin"></i></a>
+                          <a href='https://www.linkedin.com/in/alitavafi/' target="_blank"><i className="fa fa-linkedin"></i></a>
                           <div className="profile-icon-name">LinkedIn</div>
                         </div>
                       </div>
@@ -678,14 +620,14 @@ function JobResume() {
                 </div>
                 <div className="col-sm-4">
                   <div className="single-profile">
-                    <a href='https://medium.com/@rezashabrang.m' target="_blank">
+                    <a href='https://medium.com/@ali.tavafii' target="_blank">
                       <div className="profile-txt">
                         <i className="fa fa-medium"></i>
                         <div className="profile-icon-name">Medium</div>
                       </div>
                       <div className="single-profile-overlay">
                         <div className="profile-txt">
-                          <a href='https://medium.com/@rezashabrang.m' target="_blank"><i className="fa fa-medium"></i></a>
+                          <a href='https://medium.com/@ali.tavafii' target="_blank"><i className="fa fa-medium"></i></a>
                           <div className="profile-icon-name">Medium</div>
                         </div>
                       </div>
@@ -695,14 +637,14 @@ function JobResume() {
                 </div>
                 <div className="col-sm-4">
                   <div className="single-profile profile-no-border">
-                    <a href='https://github.com/rezashabrang' target="_blank">
+                    <a href='https://github.com/eskylake' target="_blank">
                       <div className="profile-txt">
                         <i className="flaticon-github-logo"></i>
                         <div className="profile-icon-name">github</div>
                       </div>
                       <div className="single-profile-overlay">
                         <div className="profile-txt">
-                          <a href='https://github.com/rezashabrang' target="_blank"><i className="flaticon-github-logo"></i></a>
+                          <a href='https://github.com/eskylake' target="_blank"><i className="flaticon-github-logo"></i></a>
                           <div className="profile-icon-name">github</div>
                         </div>
                       </div>
@@ -721,7 +663,7 @@ function JobResume() {
         <div className="container">
           <div className="hm-footer-copyright text-center">
             <p>
-              &copy; copyright <i>Reza Shabrang</i>. design and developed by <i>Reza Shabrang</i>
+              &copy; copyright <i>Ali Tavafi</i>.
             </p>
           </div>
         </div>

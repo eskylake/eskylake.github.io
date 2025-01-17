@@ -3,8 +3,6 @@ import JobResume from './job';
 import './App.css';
 import './index.css';
 
-
-
 const App = () => {
   return (
     <JobResume />
