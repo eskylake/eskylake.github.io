@@ -14,7 +14,7 @@ function JobResume() {
                 <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                   <i className="fa fa-bars"></i>
                 </button>
-                <Link className="navbar-brand" to="#">Reza Shabrang</Link>
+                <Link className="navbar-brand" to="#">Ali Tavafi</Link>
               </div>
 
 
@@ -43,7 +43,7 @@ function JobResume() {
           <div className="row">
             <div className="col-md-12 text-center">
               <div className="header-text">
-                <h2>Reza Shabrang <br /> Resume</h2>
+                <h2>Ali Tavafi <br /> Resume</h2>
               </div>
             </div>
           </div>
@@ -63,21 +63,23 @@ function JobResume() {
               <div className="col-sm-6">
                 <div className="single-about-txt">
                   <p className='font-weight-bold text-justify'>
-                    <b>I am a python developer working in the field of data science and machine learning. I've studied so much about AI in the past years and I’m always learning state of art cocepts and models in ML like CNN, GANs, Transformers, Transfer Learning, Reinforcement Learning, Few-Shot Learning and MLOps. I have developed and worked on various ML projects, details for some of them can be viewed in projects section.
-                      I'm experienced in data engineering field, developing APIs (FastAPI), working with & querying databases (SQL, NoSQL, Graph).
-                      I also have minor experiences in micro-services, backend development, infosec, software engineering, frontend (React), trading and cryptocurrency.</b>
+                    <b>Results-driven Senior Software Engineer with 7+ years of expertise in full-stack development and microservices
+                      architecture. Proven track record in scaling web applications using TypeScript, JavaScript, PHP, and Go.
+                      Demonstrated success in leading technical teams and modernizing legacy systems, combining technical
+                      excellence with strong collaborative abilities. Seeking to leverage my expertise in RESTful/GraphQL APIs and
+                      distributed systems to drive innovation and technical excellence in your engineering team.</b>
                   </p>
                   <div className="row">
                     <div className="col-sm-6">
                       <div className="single-about-add-info">
                         <h3>phone</h3>
-                        <p>+98-937-820-4977</p>
+                        <p>+98-912-871-1947</p>
                       </div>
                     </div>
                     <div className="col-sm-6">
                       <div className="single-about-add-info">
                         <h3>email</h3>
-                        <p>rezashabrang.m@gmail.com</p>
+                        <p>a.eskylake@gmail.com</p>
                       </div>
                     </div>
                   </div>
@@ -85,7 +87,7 @@ function JobResume() {
               </div>
               <div className="col-sm-offset-1 col-sm-5">
                 <div className="single-about-img">
-                  <img src="assets/images/about/me.png" alt="profile_image" />
+                  <img src="assets/images/about/me.jpg" alt="profile_image" />
                 </div>
 
               </div>
